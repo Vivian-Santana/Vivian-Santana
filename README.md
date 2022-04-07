@@ -1,10 +1,10 @@
 ### Oiê! 👋
 
 <div>
-  <img src="https://i.imgur.com/hUmin4o.png"</a>
+  <img src="https://i.imgur.com/7Vp7Ltl.png"</a>
 </div>
 
-Eu sou a Vivian, estudo programação web, sou aspirante a Desenvolvedora Full Stack 🚀
+Eu sou a Vivian, estudo programação web, aspirante a Desenvolvedora Full Stack 🚀
 
 - 🤓 I’m currently learning java and typeScript
 - 📫 How to reach me: https://www.linkedin.com/in/vivian-s-5723841a3
