@@ -1,12 +1,10 @@
-### Oiê! 👋
-
-<div>
-  <img src="https://i.imgur.com/7Vp7Ltl.png"</a>
-</div>
-
+  <div align="center">
+   <h1>Oiê! 👋</h1>
+    <img src="https://i.imgur.com/7Vp7Ltl.png" width="250px"</a>
+  </div>
 Eu sou a Vivian, estudo programação web, aspirante a Desenvolvedora Full Stack 🚀
 
-- 🤓 I’m currently learning java and typeScript
+- 🤓 I’m currently learning java and javaScript
 - 📫 How to reach me: https://www.linkedin.com/in/vivian-s-5723841a3
 - 😄 Pronouns: ela/dela
 
