@@ -31,11 +31,12 @@ Eu sou a Vivian, estudo programação web, aspirante a Desenvolvedora Full Stack
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a>  
+</a> 
+  <a href="https://nodejs.org/en/download/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="git" width="40" height="40"/> 
+</a> 
 </p>
 
 <br>
-
 <div>
   <a href="https://github.com/Vivian-Santana">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vivian-Santana&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>
