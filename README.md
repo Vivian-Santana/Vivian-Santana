@@ -1,6 +1,6 @@
   <div align="center">
    <h1>Oiê! 👋</h1>
-    <img src="https://i.imgur.com/7Vp7Ltl.png" width="250px"</a>
+    <img src="https://imgur.com/siAo8Uw.png" width="250px"</a>
   </div>
 Eu sou a Vivian, estudo programação web, aspirante a Desenvolvedora Full Stack 🚀
 <p> I'm Vivian, I study web programming, aspiring Full Stack Developer🚀</p>
