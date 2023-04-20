@@ -2,12 +2,10 @@
    <h1>Oi! 👋</h1>
     <img src="https://imgur.com/siAo8Uw.png" width="250px"</a>
   </div>
-Eu sou a Vivian, estudo programação web Full Stack 
-<p> I'm Vivian, I study web programming Full Stack </p>
+Eu sou a Vivian, estudo análise e desenvolviemnto de sistemas
+<p> I'm Vivian, I study systems analysis and development </p>
 
-- 🤓 I’m currently learning java and javaScript 
 - 📫 How to reach me: https://www.linkedin.com/in/vivian-s-santana
-- 😄 Pronouns: ela/dela
 
 <br>
 
