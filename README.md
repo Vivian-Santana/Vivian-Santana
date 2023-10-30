@@ -11,7 +11,7 @@ Eu sou a Vivian, estudo análise e desenvolviemnto de sistemas
 
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a>
+</a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </a>   
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
@@ -37,7 +37,7 @@ Eu sou a Vivian, estudo análise e desenvolviemnto de sistemas
 <br>
 <div>
   <a href="https://github.com/Vivian-Santana">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vivian-Santana&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vivian-Santana&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivian-Santana&layout=compact&langs_count=16&theme=github_dark"/>
   </a>  
 </div>
 
