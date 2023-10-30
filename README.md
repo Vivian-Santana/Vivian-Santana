@@ -38,7 +38,6 @@ Eu sou a Vivian, estudo análise e desenvolviemnto de sistemas
 <div>
   <a href="https://github.com/Vivian-Santana">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vivian-Santana&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosianeCaroliny&layout=compact&langs_count=16&theme=github_dark"/>
   </a>  
 </div>
 
