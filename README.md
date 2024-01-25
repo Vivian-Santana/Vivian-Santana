@@ -1,6 +1,6 @@
   <div align="center">
    <h1>Oi! 👋</h1>
-    <img src="https://imgur.com/siAo8Uw.png" width="250px"</a>
+    <img src="https://imgur.com/UomKtWd.png" width="250px"</a>
   </div>
 Eu sou a Vivian, estudo análise e desenvolviemnto de sistemas
 <p> I'm Vivian, I study systems analysis and development </p>
