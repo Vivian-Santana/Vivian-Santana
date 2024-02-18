@@ -2,8 +2,8 @@
    <h1>Oi! 👋</h1>
     <img src="https://imgur.com/UomKtWd.png" width="250px"</a>
   </div>
-Eu sou a Vivian, estudo análise e desenvolviemnto de sistemas
-<p> I'm Vivian, I study systems analysis and development </p>
+Eu sou a Vivian, estudo Análise e Desenvolviemnto de Sistemas
+<p> I'm Vivian, I study Systems Analysis and Development </p>
 
 - 📫 How to reach me: https://www.linkedin.com/in/vivian-s-santana
 
