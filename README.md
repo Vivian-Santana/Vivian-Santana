@@ -44,9 +44,13 @@ Desenvolvedora em constante desenvolvimento, com foco em front-end, formada em A
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/vivian-s-santana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vivian-s-santana" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
   
-  <a href="https://viviansantana-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/portfolio-vivian-brightgreen?style=for-the-badge" target="_blank"></a>
+ <a href="https://viviansantana-portfolio.netlify.app/" target="_blank">
+   <img src="https://img.shields.io/badge/portfolio-vivian-brightgreen?style=for-the-badge" target="_blank">
+ </a>
 </div>
 
 <!-- <div>
