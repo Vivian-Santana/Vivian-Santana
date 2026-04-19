@@ -9,10 +9,13 @@ Desenvolvedora em constante desenvolvimento, com foco em front-end, formada em A
 
 - HTML
 - CSS
+- SCSS
+- Styled components
 - BootStrap
 - JavaScript
 - TypeScript
 - Angular
+- React
 - Integração com API
 - Prototipação de interface
 
