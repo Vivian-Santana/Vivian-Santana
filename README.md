@@ -3,7 +3,7 @@
     <!-- <img src="https://imgur.com/UomKtWd.png" width="250px"</a> -->
   </div>
 
-Desenvolvedora em constante desenvolvimento, com foco em front-end, formada em Análise e Desenvolvimento de Sistemas.
+Desenvolvedora Web, com foco em front-end mirando full-stack, formada em Análise e Desenvolvimento de Sistemas e pós-graduanda em Engenharia de Software.
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -20,7 +20,8 @@ Desenvolvedora em constante desenvolvimento, com foco em front-end, formada em A
 - Prototipação de interface
 
 ##
-<p>Linguagens e tecnologias que uso e ou já tive contato</p>
+### Linguagens e tecnologias que uso e ou já tive contato ###
+</br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" style="display:inline-block" /> &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" style="display:inline-block" />&nbsp;&nbsp;&nbsp;
@@ -41,15 +42,15 @@ Desenvolvedora em constante desenvolvimento, com foco em front-end, formada em A
 </p>
 
 ##
-
+### Visite meu portfólio e conecte-se comigo no LinkedIn
 <div>
+  <a href="https://viviansantana-portfolio.netlify.app/" target="_blank">
+   <img src="https://img.shields.io/badge/portfolio-vivian-brightgreen?style=for-the-badge" target="_blank">
+ </a>
+  
   <a href="https://www.linkedin.com/in/vivian-s-santana" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  
- <a href="https://viviansantana-portfolio.netlify.app/" target="_blank">
-   <img src="https://img.shields.io/badge/portfolio-vivian-brightgreen?style=for-the-badge" target="_blank">
- </a>
 </div>
 
 <!-- <div>
