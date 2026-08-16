@@ -1,24 +1,36 @@
   <div align="center">
    <h1>Oi! 👋 Sou a Vivian</h1>
     <!-- <img src="https://imgur.com/UomKtWd.png" width="250px"</a> -->
-    <img width="900" height="500" alt="Image" src="https://github.com/user-attachments/assets/f3fa0d33-4090-48a1-8f67-0b9267580a1d" />
   </div>
 
 Desenvolvedora Web, com foco em front-end mirando full-stack, formada em Análise e Desenvolvimento de Sistemas e pós-graduanda em Engenharia de Software.
 
-### 🛠️ Tecnologias e Ferramentas
+ <div align="center">
+   <h3> 🛠️ Tecnologias e Ferramentas </h3>
+  <table>
+    <tr>
+      <td valign="top">
+        <ul>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>SCSS</li>
+          <li>Styled Components</li>
+          <li>Bootstrap</li>
+          <li>JavaScript</li>
+          <li>TypeScript</li>
+          <li>Angular</li>
+          <li>React</li>
+          <li>Integração com API</li>
+          <li>Prototipação de interface</li>
+        </ul>
+      </td>
+      <td valign="middle">
+        <img width="500" src="https://github.com/user-attachments/assets/f3fa0d33-4090-48a1-8f67-0b9267580a1d" alt="Image">
+      </td>
+    </tr>
+  </table>
+ </div>
 
-- HTML
-- CSS
-- SCSS
-- Styled components
-- BootStrap
-- JavaScript
-- TypeScript
-- Angular
-- React
-- Integração com API
-- Prototipação de interface
 
 ##
 ### Linguagens e tecnologias que uso e ou já tive contato ###
