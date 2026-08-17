@@ -25,7 +25,7 @@ Desenvolvedora Web, com foco em front-end mirando full-stack, formada em Anális
         </ul>
       </td>
       <td valign="middle">
-        <img width="500" src="https://github.com/user-attachments/assets/f3fa0d33-4090-48a1-8f67-0b9267580a1d" alt="Image">
+        <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/38072762-ca7a-423c-8b0f-aac2d18f2ece" />
       </td>
     </tr>
   </table>
